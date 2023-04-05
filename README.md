@@ -27,7 +27,7 @@ print(result)
 
 ## Output:
 
-![GitHub Logo](LIN.png)
+![GitHub Logo](lin.png)
 
 
 
