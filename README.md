@@ -26,7 +26,10 @@ print(result)
 ```
 
 ## Output:
-![github logo](lin.png)
+
+![lin](https://user-images.githubusercontent.com/118707051/229993838-cfc4250d-6e6d-4259-9e53-4042b0bb1913.png)
+
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
